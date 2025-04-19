@@ -1,12 +1,4 @@
-import {
-  Mail,
-  MapPin,
-  Clock,
-  Twitter,
-  Linkedin,
-  Instagram,
-  Github,
-} from "lucide-react";
+import { Mail, MapPin, Twitter, Linkedin, Instagram } from "lucide-react";
 
 export default function Contact() {
   return (

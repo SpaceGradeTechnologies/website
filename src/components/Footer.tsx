@@ -1,4 +1,4 @@
-import { Twitter, Linkedin, Instagram, Github } from "lucide-react";
+import { Twitter, Linkedin, Instagram } from "lucide-react";
 import SpacegradeLogo from "./illustrations/SpacegradeLogo";
 
 export default function Footer() {

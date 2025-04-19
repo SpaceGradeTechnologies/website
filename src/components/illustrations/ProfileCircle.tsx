@@ -1,5 +1,3 @@
-import React from "react";
-
 const ProfileCircle = ({
   className = "",
   number = 1,
